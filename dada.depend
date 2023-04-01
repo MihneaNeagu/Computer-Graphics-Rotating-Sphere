@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680103267 source:c:\an 2 sem 2\grafica pe calculator\lab2sfera\main.cpp
+	<GL/glut.h>
+	<cmath>
+
